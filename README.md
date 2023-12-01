@@ -29,4 +29,4 @@ Os **códigos de status HTTP** indicam o resultado da solicitação feita ao ser
 
 ---
 
-**Autor do resumo:** Seu Nome Sobrenome - Sua Matrícula
+**Autor do resumo:** Ewerton Rosendo da Silva - 01510422
